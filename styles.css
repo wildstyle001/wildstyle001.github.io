@@ -1,0 +1,26 @@
+body{
+	background-color: blue;
+	font-family: arial,helvetica 
+}
+
+h1 {
+	font-size: 45px;
+	color: white;
+}
+
+p {
+	font-size: 20px;
+	color: white;
+}
+img {
+	    display: block;
+margin: 0 auto;
+}
+ol {
+	font-size: 20px;
+	color: white
+}
+
+li {
+	line-height: 25px;
+}
